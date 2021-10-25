@@ -1,0 +1,1 @@
+[09-Sep-2021 20:52:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\RawmaterialController::rawmaterialinward() in /home/codeufrx/gtechnocrafts.com/KOPS/app/Http/Controllers/Admin/RawmaterialController.php on line 35
